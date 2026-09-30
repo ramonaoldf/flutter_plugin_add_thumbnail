@@ -1,12 +1,12 @@
 
 ## add_thumbnail Plugin 
-[![pub package](https://img.shields.io/pub/v/add_thumbnail?color=green)](https://pub.dev/packages/add_thumbnail) [![Codemagic build status](https://api.codemagic.io/apps/5e6394d79399a2000f6d459a/5e6394d79399a2000f6d4599/status_badge.svg)](https://codemagic.io/apps/5e6394d79399a2000f6d459a/5e6394d79399a2000f6d4599/latest_build) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_plugin_add_thumbnail) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_plugin_add_thumbnail) ![GitHub](https://img.shields.io/github/license/TheAlphamerc/flutter_plugin_add_thumbnail) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_plugin_add_thumbnail?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_plugin_add_thumbnail) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_plugin_add_thumbnail?style=social)
+[![pub package](https://img.shields.io/pub/v/add_thumbnail?color=green)](https://pub.dev/packages/add_thumbnail) [![Codemagic build status](https://api.codemagic.io/apps/5e6394d79399a2000f6d459a/5e6394d79399a2000f6d4599/status_badge.svg)](https://codemagic.io/apps/5e6394d79399a2000f6d459a/5e6394d79399a2000f6d4599/latest_build) ![GitHub last commit](https://img.shields.io/github/last-commit/ramonaoldf/flutter_plugin_add_thumbnail) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail) ![GitHub](https://img.shields.io/github/license/ramonaoldf/flutter_plugin_add_thumbnail) [![GitHub stars](https://img.shields.io/github/stars/ramonaoldf/flutter_plugin_add_thumbnail?style=social)](https://github.com/login?return_to=%2Framonaoldf%2Fflutter_plugin_add_thumbnail) ![GitHub forks](https://img.shields.io/github/forks/ramonaoldf/flutter_plugin_add_thumbnail?style=social)
 
 
 A new Flutter package. It is build for fetching media thumbnail associate to url. On adding urls it creates thumbnail wigdet.
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_plugin_add_thumbnail/total?color=green)
-<a href="https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/releases/download/v0.0.1/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/ramonaoldf/flutter_plugin_add_thumbnail/total?color=green)
+<a href="https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/releases/download/v0.0.1/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## Video Url
 Youtube Link:- https://www.youtube.com/watch?v=1MAuErvBtKA
@@ -16,11 +16,11 @@ Youtube Link:- https://www.youtube.com/watch?v=1MAuErvBtKA
 
 Initial Screen |  Add Thumbnail dialog       | Image thumbnail          
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_3.jpg?raw=true)|![]
+![](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_3.jpg?raw=true)|![]
 
 MediaListView widget   |  MediaListView with multiple children     |  Error on invaild link 
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_6.jpg?raw=true)|![]
+![](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_4.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_5.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_plugin_add_thumbnail/blob/master/screenshots/screenshot_6.jpg?raw=true)|![]
 
 
 
